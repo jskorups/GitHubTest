@@ -15,7 +15,6 @@ namespace GitTest
             Console.WriteLine("Modyfikacja 2");
             Console.WriteLine("Modyfikacja 3");
             Console.WriteLine("Modyfikacja 4");
-            Console.WriteLine("Modyfikacja 5");
 
 
             Console.ReadKey();

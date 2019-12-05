@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("Baza 1");
             Console.WriteLine("Modyfikacja 1");
+            Console.WriteLine("Nowy branch 1");
             Console.ReadKey();
         }
     }
